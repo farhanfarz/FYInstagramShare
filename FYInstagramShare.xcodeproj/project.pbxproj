@@ -12,6 +12,7 @@
 		DF9329891D3CFD0200DA38B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF9329871D3CFD0200DA38B4 /* Main.storyboard */; };
 		DF93298B1D3CFD0200DA38B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF93298A1D3CFD0200DA38B4 /* Assets.xcassets */; };
 		DF93298E1D3CFD0200DA38B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF93298C1D3CFD0200DA38B4 /* LaunchScreen.storyboard */; };
+		DF9329961D3D02E600DA38B4 /* FYWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF9329951D3D02E600DA38B4 /* FYWebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DF93298A1D3CFD0200DA38B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF93298D1D3CFD0200DA38B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF93298F1D3CFD0200DA38B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF9329951D3D02E600DA38B4 /* FYWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FYWebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				DF9329831D3CFD0200DA38B4 /* AppDelegate.swift */,
 				DF9329851D3CFD0200DA38B4 /* ViewController.swift */,
+				DF9329951D3D02E600DA38B4 /* FYWebViewController.swift */,
 				DF9329871D3CFD0200DA38B4 /* Main.storyboard */,
 				DF93298A1D3CFD0200DA38B4 /* Assets.xcassets */,
 				DF93298C1D3CFD0200DA38B4 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF9329861D3CFD0200DA38B4 /* ViewController.swift in Sources */,
+				DF9329961D3D02E600DA38B4 /* FYWebViewController.swift in Sources */,
 				DF9329841D3CFD0200DA38B4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
